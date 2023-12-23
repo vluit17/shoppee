@@ -1,1 +1,6 @@
-# shoppee
+![image](https://github.com/Minh-VLUNGIT/shoppee/assets/83760061/39a4b868-6566-4796-9f55-bdbb1befef32)
+![image](https://github.com/Minh-VLUNGIT/shoppee/assets/83760061/35ca6eb8-0064-485c-a78e-c8604858cab2)
+![image](https://github.com/Minh-VLUNGIT/shoppee/assets/83760061/4c87b735-68c8-454d-8e00-08f041f6f1c6)
+![image](https://github.com/Minh-VLUNGIT/shoppee/assets/83760061/3179dd60-d84d-46a2-bd37-0231527309d0)
+![image](https://github.com/Minh-VLUNGIT/shoppee/assets/83760061/80df48c2-4524-42cd-b244-575933241c4e)
+![image](https://github.com/Minh-VLUNGIT/shoppee/assets/83760061/e8193244-e68c-4a5c-8450-aaa8ed3e04dd)
